@@ -1,0 +1,1 @@
+pod "SwaggerClient", :path => "./objc-client"
